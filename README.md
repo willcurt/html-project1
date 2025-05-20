@@ -1,2 +1,4 @@
 project by Charles (Will) Curtis  
-html file with text output
+html file "index.html" with text output  
+
+no assumptions, no known errors
